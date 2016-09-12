@@ -10,7 +10,7 @@
   "preferences": [{
         "name": "loginUrl",
         "title": "Login URL",
-        "description": "Start session keepalive when this addres is visited",
+        "description": "Start session keepalive when this address is visited",
         "type": "string",
         "value": "http://www.example.com/login"
     },{
@@ -22,7 +22,7 @@
     },{
         "name": "logoutUrl",
         "title": "Logout Address",
-        "description": "Stop session keepalive when this addres is visited",
+        "description": "Stop session keepalive when this address is visited",
         "type": "string",
         "value": "http://www.example.com/logout"
     },
